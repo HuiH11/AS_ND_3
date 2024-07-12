@@ -1,0 +1,5 @@
+---,ItemDisc,ItemImg
+Axe,Strong/Slow/C,/Script/Engine.Texture2D'/Game/02_Resource/Character/Skeleton/weapon/axe.axe'
+Blade,Nor/Nor/C,/Script/Engine.Texture2D'/Game/02_Resource/Character/Skeleton/weapon/blade.blade'
+Crossbow,Weak/Fast/F,/Script/Engine.Texture2D'/Game/02_Resource/Character/Skeleton/weapon/crossbow.crossbow'
+Staff,SuperS/VeryS/F,/Script/Engine.Texture2D'/Game/02_Resource/Character/Skeleton/weapon/staff.staff'
